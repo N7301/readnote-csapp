@@ -2,7 +2,7 @@
 home: true
 heroImage: /csapp.jpg
 heroText: CSAPP ReadNote
-tagline: 为准备哈工大计算机考研《计算机系统》而做的 CSAPP 阅读笔记
+tagline: 我叫 HuRich
 
 actionBtn:
   text: Get Started ->
